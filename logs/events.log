@@ -1,0 +1,18 @@
+// captures event log
+
+{"timestamp":"2025-06-28T08:10:50-05:00","name":"Google","status":"UP"}
+{"timestamp":"2025-06-28T08:10:50-05:00","name":"Localhost","status":"DOWN"}
+{"timestamp":"2025-06-28T08:11:20-05:00","name":"Google","status":"UP"}
+{"timestamp":"2025-06-28T08:11:20-05:00","name":"Localhost","status":"DOWN"}
+{"timestamp":"2025-06-28T08:11:50-05:00","name":"Google","status":"UP"}
+{"timestamp":"2025-06-28T08:11:50-05:00","name":"Localhost","status":"DOWN"}
+{"timestamp":"2025-06-28T08:12:20-05:00","name":"Google","status":"UP"}
+{"timestamp":"2025-06-28T08:12:20-05:00","name":"Localhost","status":"DOWN"}
+{"timestamp":"2025-06-28T08:17:03-05:00","name":"Google","status":"UP"}
+{"timestamp":"2025-06-28T08:17:03-05:00","name":"Localhost","status":"DOWN"}
+{"timestamp":"2025-06-28T08:17:33-05:00","name":"Google","status":"UP"}
+{"timestamp":"2025-06-28T08:17:33-05:00","name":"Localhost","status":"DOWN"}
+{"timestamp":"2025-06-28T08:18:04-05:00","name":"Google","status":"UP"}
+{"timestamp":"2025-06-28T08:18:04-05:00","name":"Localhost","status":"DOWN"}
+{"timestamp":"2025-06-28T08:18:34-05:00","name":"Google","status":"UP"}
+{"timestamp":"2025-06-28T08:18:34-05:00","name":"Localhost","status":"DOWN"}

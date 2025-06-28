@@ -1,0 +1,5 @@
+[
+    { "name": "Google", "url": "https://www.google.com" },
+    { "name": "Localhost", "url": "http://127.0.0.1:8080" }
+  ]
+  

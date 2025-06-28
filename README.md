@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](infra-watchdog_logo.png)
 
 # infra-watchdog
 
